@@ -1,2 +1,2 @@
  Spotify-Api-program <br>
- Program to Display Artist, Tracks, and More
+ Display Artist, Tracks, and More
